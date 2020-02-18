@@ -4,9 +4,9 @@ navbar:
   title: "Eva Murzyn"
   left:
     - text: "Projects"
-      href: research.html
+      href: projects.html
     - text: "Research"
-      href: research.html
+      href: research.md
     - text: "Blog"
       href: blog.html
   right:

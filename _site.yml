@@ -4,9 +4,9 @@ navbar:
   title: "Eva Murzyn"
   left:
     - text: "Projects"
-      href: research.html
+      href: projects.html
     - text: "Research"
-      href: research.html
+      href: research.md
     - text: "Blog"
       href: blog.html
   right:
@@ -20,5 +20,5 @@ navbar:
       href: https://www.linkedin.com/in/eva-murzyn-72328034/
 output:
   html_document:
-    theme: plainwhite
+    theme: jekyll-theme-cayman
     css: 'styles.css'

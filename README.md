@@ -1,2 +1,3 @@
-# EvaMurzyn.github.io
-Personal website and blog
+---
+permalink: /index.html
+---

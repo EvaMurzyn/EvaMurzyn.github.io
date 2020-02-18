@@ -8,7 +8,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Blog"
-      href: 
+      href: blog.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
@@ -20,5 +20,5 @@ navbar:
       href: https://www.linkedin.com/in/eva-murzyn-72328034/
 output:
   html_document:
-    theme: paper
+    theme: plainwhite
     css: 'styles.css'

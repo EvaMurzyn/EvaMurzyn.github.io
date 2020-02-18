@@ -20,5 +20,5 @@ navbar:
       href: https://www.linkedin.com/in/eva-murzyn-72328034/
 output:
   html_document:
-    theme: plainwhite
+    theme: jekyll-theme-cayman
     css: 'styles.css'

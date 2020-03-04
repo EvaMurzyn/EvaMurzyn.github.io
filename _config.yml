@@ -1,0 +1,34 @@
+title: Data exploration, visualisation and analysis. Some knitting.
+description: > # this means to ignore newlines until "baseurl:"
+Data exploration, visualisation and analysis. Some knitting.
+permalink: ':title/'
+baseurl: "/EvaMurzyn" # the subpath of your site, e.g. /blog
+url: "https://evamurzyn.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Eva Murzyn # add your name
+author-img: eva-murzyn.jpg # add your photo
+about-author: I am a research and teaching professional, venturing into data science. Areas: psychology of video games, science communication. Currently at University of Edinburgh. # add description
+social-twitter: EvaMurzyn # add your Twitter handle
+social-github: evamurzyn # add your Github handle
+social-linkedin: eva-murzyn-72328034 # add your Linkedin handle
+social-email: eva.murzyn@gmail.com # add your Email address
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

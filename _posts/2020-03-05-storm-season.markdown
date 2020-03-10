@@ -71,5 +71,7 @@ It's possible that I could find something with a longer data stretch - 14 data p
 This was a fun little project, and it helped me apply my workshop skills in a new context. Twitter is a such a good place to go for data on natural and social phenomena, such as hurricanes, earthquakes and social movements, and I will come back to it to refine my approach next time a stormy month comes along.
 However, it's worth remembering that there is [no guarantee that people are telling the truth online](https://www.npr.org/sections/alltechconsidered/2015/04/20/400125638/social-media-can-help-track-tornadoes-but-was-that-tweet-real?t=1583439700950). Between bot accounts hijacking popular hashtags to push their message, and people making things up for attention and laughs, social media data needs to be taken with a solid pinch of salt.
 
+You can find all of the files and code [here](https://github.com/EvaMurzyn/Blog_data/tree/master/2020-03-05-storm-season)
+
 Image used is by [NOAA Photo Library](https://www.flickr.com/photos/noaaphotolib/27330284504/in/album-72157624929569729/)
 > Written with [StackEdit](https://stackedit.io/).

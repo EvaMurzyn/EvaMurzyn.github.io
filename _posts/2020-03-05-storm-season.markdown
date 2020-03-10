@@ -19,7 +19,7 @@ Unfortunately, my timing was wrong, and I didn’t manage to capture a ‘real�
 ## How did the hashtag develop?
 
 Despite the original Storm Ellen warnings in papers on the 14th and 15th of February, the hashtag exploded only on Saturday 22nd of February, over a week after the initial use.
-![StormEllen Tweets](/assets/img/tweets.jpg) <!-- .element height="40%" width="40%" -->
+![StormEllen Tweets](/assets/img/tweets.jpg) <!-- .element height="20%" width="20%" -->
 While it's hard to fully understand why hashtags rise and fall, 22nd of February was pretty terrible weather-wise, and there were numerous [news reports](https://www.theguardian.com/uk-news/2020/feb/22/heavy-showers-bring-fresh-flooding-parts-uk) of snow, rain and flooding across the UK. 
   
 
@@ -27,11 +27,11 @@ While it's hard to fully understand why hashtags rise and fall, 22nd of February
 I had a look at the most frequently used words in the #StormEllen tweets. Overall, other storm names (Ciara, Dennis and Jorge) seemed to be mentioned most frequently, with people both comparing the weather across different storms, or just using as many weather-related hashtags as they could fit in.
 
 After these were removed, these were left:
-![StormEllen word cloud](https://github.com/EvaMurzyn/EvaMurzyn.github.io/blob/master/assets/img/clouds.jpg) <!-- .element height="40%" width="40%" -->
+![StormEllen word cloud](/assets/img/clouds.jpg) <!-- .element height="20%" width="20%" -->
 
 Following Anna's workshop, I ran a quick sentiment analysis, and it turned out that overall, the tone of the tweets was negative, and leaning heavily towards anger at the continuing bad weather. 
 
-![StormEllen sentiment analysis results](https://github.com/EvaMurzyn/EvaMurzyn.github.io/blob/master/assets/img/sentiment.jpg) <!-- .element height="40%" width="40%" -->  
+![StormEllen sentiment analysis results](/assets/img/sentiment.jpg) <!-- .element height="40%" width="40%" -->  
 
 ## What storm related phenonomena were being mentioned?
 
@@ -48,7 +48,7 @@ I created some ad-hoc lists of words related to 4 types of weather phenomena ass
 -   Damage: floods, destroyed, cancelled, submerged, etc.
       
 I calculated the average number of mentions of these 4 categories per tweet, and plotted them:
-![Mentions of different weather phenomena](https://github.com/EvaMurzyn/EvaMurzyn.github.io/blob/master/assets/img/mentions.png) <!-- .element height="40%" width="40%" -->
+![Mentions of different weather phenomena](/assets/img/mentions.png) <!-- .element height="40%" width="40%" -->
 
 While wind terms were used fairly evenly across time, mentions of rain and damage seemed to peak around 20th and 24th of February. 
 
@@ -59,10 +59,10 @@ While wind terms were used fairly evenly across time, mentions of rain and damag
 I mapped the changes in these two parameters onto the weather mentions, and ran some correlations,  but sadly, there didn't seem to be a clear-cut relationship. 
 
 This is the data for maximum wind speed:
-![Wind speed and mentions of winds and damage](https://github.com/EvaMurzyn/EvaMurzyn.github.io/blob/master/assets/img/wind_speed.png) <!-- .element height="40%" width="40%" -->
+![Wind speed and mentions of winds and damage](/assets/img/wind_speed.png) <!-- .element height="40%" width="40%" -->
 
 And this is the data for total precipitation:
-![Mentions of precipitation, and rain, water and damage](https://github.com/EvaMurzyn/EvaMurzyn.github.io/blob/master/assets/img/precipitation.png) <!-- .element height="40%" width="40%" -->
+![Mentions of precipitation, and rain, water and damage](/assets/img/precipitation.png) <!-- .element height="40%" width="40%" -->
   
 It's possible that I could find something with a longer data stretch - 14 data points is generally not enough to uncover weak to medium correlations. I'd be also interested in looking at possible delays in mentions - it's possible that people are tweeting about damage a day or two after it happens, as news spreads across communities.
 

@@ -15,6 +15,7 @@ I wanted to apply and expand those skills, and started thinking about looking at
 
 Unfortunately, my timing was wrong, and I didn’t manage to capture a ‘real’, Met-Office named storm. However, as potential Atlantic depressions were approaching the coast, media was quick to give them names anyway, leading to the emergence of the “Storm Ellen” hashtag. I scraped all original tweets using that hashtag across 2 weeks, between the 15th and 29th of February, and started asking questions.
  
+You can find all of the files and code [here](https://github.com/EvaMurzyn/Blog_data/tree/master/2020-03-05-storm-season)
 
 ## How did the hashtag develop?
 

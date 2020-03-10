@@ -19,7 +19,7 @@ Unfortunately, my timing was wrong, and I didn’t manage to capture a ‘real�
 ## How did the hashtag develop?
 
 Despite the original Storm Ellen warnings in papers on the 14th and 15th of February, the hashtag exploded only on Saturday 22nd of February, over a week after the initial use.
-![StormEllen Tweets](/assets/img/tweets.jpg) <!-- .element height="20%" width="20%" -->
+![StormEllen Tweets](/assets/img/tweets.jpg) { width=50% }
 While it's hard to fully understand why hashtags rise and fall, 22nd of February was pretty terrible weather-wise, and there were numerous [news reports](https://www.theguardian.com/uk-news/2020/feb/22/heavy-showers-bring-fresh-flooding-parts-uk) of snow, rain and flooding across the UK. 
   
 

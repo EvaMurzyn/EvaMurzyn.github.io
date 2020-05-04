@@ -42,23 +42,23 @@ I also created a custom colour palette using the [Data Colour Picker](https://le
  Applying this code to all the variables gave me these 4 animated maps:
 
 **Retail and Recreation **
-![Retail mobility report](https://github.com/EvaMurzyn/EvaMurzyn.github.io/blob/master/assets/img/retail_UK_anim.gif)
+![Retail mobility report](/assets/img/retail_UK_anim.gif)
 
 **Grocery and Pharmacy**
-![Grocery and Pharmacy](https://github.com/EvaMurzyn/EvaMurzyn.github.io/blob/master/assets/img/grocery_UK_anim.gif)
+![Grocery and Pharmacy](/assets/img/grocery_UK_anim.gif)
 
 **Transit Stations**
-![Transit Stations](https://github.com/EvaMurzyn/EvaMurzyn.github.io/blob/master/assets/img/transit_UK_anim.gif)
+![Transit Stations](/assets/img/transit_UK_anim.gif)
 
 **Workplaces**
-![Workplaces](https://github.com/EvaMurzyn/EvaMurzyn.github.io/blob/master/assets/img/workplace_UK_anim.gif)
+![Workplaces](/assets/img/workplace_UK_anim.gif)
 
 If you'd like to give this a go with later Google data, or when choosing different date values, be aware that the *tm_fill()* colour mapping function decides on the number of bins automatically, and if the number of colours you specify doesn't match the breakdown, it ends up rendering incorrectly. You may need to do some manual tweaking with the scales.
 
 **The big picture**
 You probably have noticed the periodic changes in the graphs, with some days showing more limited mobility than others. To look at the overall patterns, I plotted the summary data for the whole UK to show a timeline of mobility from February to 26th of April.
 
-![Timeline graph](https://github.com/EvaMurzyn/EvaMurzyn.github.io/blob/master/assets/img/timeline.png)
+![Timeline graph](/assets/img/timeline.png)
 
 In this graph, the points on lines represent weekends, which tend to deviate from the weekday pattern. Additionally, I marked down the start of social distancing orders (16th of March) and lockdown (announced on 23rd of March). 
 

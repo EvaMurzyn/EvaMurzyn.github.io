@@ -60,7 +60,7 @@ You probably have noticed the periodic changes in the graphs, with some days sho
 
 ![Timeline graph](/assets/img/timeline.png)
 
-In this graph, the points on lines represent weekends, which tend to deviate from the weekday pattern. Additionally, I marked down the start of social distancing orders (16th of March) and lockdown (announced on 23rd of March). 
+In this graph, the points on lines highlight the weekends, which tend to deviate from the weekday pattern. Additionally, I marked the start of social distancing orders (16th of March) and lockdown (announced on 23rd of March) using annotation tools to showcase how behaviour changed once official guidance was given. 
 
 It's wonderful to see how people did the right thing, and stayed at home to minimise the risk of the illness spreading. 
 
